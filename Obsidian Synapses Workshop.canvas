@@ -1,0 +1,205 @@
+{
+	"nodes": [
+		{
+			"id": "c0c1c2c3c4c50001",
+			"type": "file",
+			"x": -200,
+			"y": -200,
+			"width": 400,
+			"height": 300,
+			"file": "Obsidian Synapses.md",
+			"color": "4"
+		},
+		{
+			"id": "c0c1c2c3c4c50010",
+			"type": "group",
+			"x": -740,
+			"y": 200,
+			"width": 680,
+			"height": 420,
+			"label": "Concepts",
+			"color": "6"
+		},
+		{
+			"id": "c0c1c2c3c4c50002",
+			"type": "file",
+			"x": -720,
+			"y": 250,
+			"width": 300,
+			"height": 160,
+			"file": "Concepts/Dracomancy.md"
+		},
+		{
+			"id": "c0c1c2c3c4c50003",
+			"type": "file",
+			"x": -380,
+			"y": 250,
+			"width": 300,
+			"height": 160,
+			"file": "Concepts/The Mind Garden.md"
+		},
+		{
+			"id": "c0c1c2c3c4c50004",
+			"type": "file",
+			"x": -560,
+			"y": 440,
+			"width": 340,
+			"height": 160,
+			"file": "Concepts/Prompt Dimensions.md"
+		},
+		{
+			"id": "c0c1c2c3c4c50011",
+			"type": "group",
+			"x": 60,
+			"y": 200,
+			"width": 680,
+			"height": 420,
+			"label": "Examples",
+			"color": "3"
+		},
+		{
+			"id": "c0c1c2c3c4c50005",
+			"type": "file",
+			"x": 80,
+			"y": 250,
+			"width": 300,
+			"height": 140,
+			"file": "Examples/My First Note.md"
+		},
+		{
+			"id": "c0c1c2c3c4c50006",
+			"type": "file",
+			"x": 420,
+			"y": 250,
+			"width": 300,
+			"height": 140,
+			"file": "Examples/My First Canvas.canvas"
+		},
+		{
+			"id": "c0c1c2c3c4c50007",
+			"type": "file",
+			"x": 240,
+			"y": 440,
+			"width": 300,
+			"height": 160,
+			"file": "Examples/Nested Canvas.canvas"
+		},
+		{
+			"id": "c0c1c2c3c4c50008",
+			"type": "file",
+			"x": -680,
+			"y": -200,
+			"width": 380,
+			"height": 300,
+			"file": "Dracomancy.canvas"
+		},
+		{
+			"id": "c0c1c2c3c4c50009",
+			"type": "file",
+			"x": 300,
+			"y": -200,
+			"width": 380,
+			"height": 300,
+			"file": "Clippings/Karparthy on Obsidian and Agents.md"
+		},
+		{
+			"id": "c0c1c2c3c4c50012",
+			"type": "text",
+			"x": -200,
+			"y": -440,
+			"width": 400,
+			"height": 180,
+			"text": "# Obsidian Synapses Workshop\n\nA living knowledge system.\nNotes → Canvases → Nested Canvases.\n**1D → 2D → 3D.**\n\nStart at the center. Explore outward.",
+			"color": "5"
+		}
+	],
+	"edges": [
+		{
+			"id": "d0d1d2d3d4d50001",
+			"fromNode": "c0c1c2c3c4c50012",
+			"fromSide": "bottom",
+			"toNode": "c0c1c2c3c4c50001",
+			"toSide": "top"
+		},
+		{
+			"id": "d0d1d2d3d4d50002",
+			"fromNode": "c0c1c2c3c4c50001",
+			"fromSide": "left",
+			"toNode": "c0c1c2c3c4c50008",
+			"toSide": "right",
+			"label": "visual map"
+		},
+		{
+			"id": "d0d1d2d3d4d50003",
+			"fromNode": "c0c1c2c3c4c50001",
+			"fromSide": "right",
+			"toNode": "c0c1c2c3c4c50009",
+			"toSide": "left",
+			"label": "reference"
+		},
+		{
+			"id": "d0d1d2d3d4d50004",
+			"fromNode": "c0c1c2c3c4c50001",
+			"fromSide": "bottom",
+			"toNode": "c0c1c2c3c4c50010",
+			"toSide": "top",
+			"label": "theory",
+			"color": "6"
+		},
+		{
+			"id": "d0d1d2d3d4d50005",
+			"fromNode": "c0c1c2c3c4c50001",
+			"fromSide": "bottom",
+			"toNode": "c0c1c2c3c4c50011",
+			"toSide": "top",
+			"label": "practice",
+			"color": "3"
+		},
+		{
+			"id": "d0d1d2d3d4d50006",
+			"fromNode": "c0c1c2c3c4c50002",
+			"fromSide": "right",
+			"toNode": "c0c1c2c3c4c50003",
+			"toSide": "left"
+		},
+		{
+			"id": "d0d1d2d3d4d50007",
+			"fromNode": "c0c1c2c3c4c50003",
+			"fromSide": "bottom",
+			"toNode": "c0c1c2c3c4c50004",
+			"toSide": "right"
+		},
+		{
+			"id": "d0d1d2d3d4d50008",
+			"fromNode": "c0c1c2c3c4c50002",
+			"fromSide": "bottom",
+			"toNode": "c0c1c2c3c4c50004",
+			"toSide": "left"
+		},
+		{
+			"id": "d0d1d2d3d4d50009",
+			"fromNode": "c0c1c2c3c4c50005",
+			"fromSide": "right",
+			"toNode": "c0c1c2c3c4c50006",
+			"toSide": "left",
+			"label": "1D → 2D"
+		},
+		{
+			"id": "d0d1d2d3d4d50010",
+			"fromNode": "c0c1c2c3c4c50006",
+			"fromSide": "bottom",
+			"toNode": "c0c1c2c3c4c50007",
+			"toSide": "right",
+			"label": "2D → 3D"
+		},
+		{
+			"id": "d0d1d2d3d4d50011",
+			"fromNode": "c0c1c2c3c4c50004",
+			"fromSide": "right",
+			"toNode": "c0c1c2c3c4c50005",
+			"toSide": "left",
+			"label": "try it",
+			"color": "3"
+		}
+	]
+}

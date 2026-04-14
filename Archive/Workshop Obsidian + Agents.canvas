@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"914fd8988b322ccf","type":"group","x":420,"y":-620,"width":440,"height":900},
+		{"id":"9ee3144df2158010","type":"file","file":"Archive/Workshop Obsidian + Agents - Master Plan.md","x":-420,"y":-200,"width":400,"height":268},
+		{"id":"abb1f500c9d03a74","type":"file","file":"Archive/WorkShop Obsidian and AI Agents.png","x":-420,"y":-620,"width":400,"height":400},
+		{"id":"370fb8bb449a8e03","type":"file","file":"Archive/Descrição Oficial Luma.md","x":0,"y":-620,"width":400,"height":400},
+		{"id":"32115091f865e17c","type":"file","file":"Archive/workshop-obsidian-agentes-hero.png","x":0,"y":-155,"width":400,"height":223},
+		{"id":"b8e4a1c7f0329d56","type":"text","text":"## Técnicas \n\n- **Canvas como prompt 2D** — usar o espaço infinito para desenhar ideias, cartões e relações (pensar no canvas como \"prompt espacial\")\n- Agente criando canvases, um espaço pra ir gerando ideias\n- **Conectar arquivos** — wikilinks `[[ ]]`, embeds `![[ ]]`, backlinks, grafo\n- **Vault pré-pronto (starter)** — pacote para baixar e já sair usando no workshop\n- **Obsidian Web Clipper** — capturar páginas e trechos da web direto no vault\n- **Templates + propriedades (YAML)** — notas com estrutura repetível e metadados\n- **Agentes (Cursor, etc.)** — repo com regras/instruções para o agente achar contexto sozinho","x":-420,"y":100,"width":720,"height":300,"color":"5"},
+		{"id":"659369a55bb2702a","type":"file","file":"Clippings/Karparthy on Obsidian and Agents.md","x":440,"y":-440,"width":400,"height":320},
+		{"id":"2239274d86d968e4","type":"link","url":"https://x.com/karpathy/status/2039805659525644595","x":440,"y":-92,"width":400,"height":352},
+		{"id":"5631aebf9ed245aa","type":"text","text":"This publication by Karparthy went viral. It's different from the way I use the knowledge base, but we can get some inspirations.","x":510,"y":-600,"width":260,"height":140}
+	],
+	"edges":[
+		{"id":"6e96c022a5611eef","fromNode":"659369a55bb2702a","fromSide":"bottom","toNode":"2239274d86d968e4","toSide":"top"}
+	]
+}

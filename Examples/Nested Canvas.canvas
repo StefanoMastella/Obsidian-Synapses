@@ -1,0 +1,85 @@
+{
+	"nodes": [
+		{
+			"id": "b1b2b3b4b5b60001",
+			"type": "text",
+			"x": 0,
+			"y": -40,
+			"width": 400,
+			"height": 160,
+			"text": "# The Third Dimension\n\nThis canvas contains another canvas.\nYou're looking at **depth** — a spatial world\nthat holds another spatial world inside it.\n\nThis is the **3D prompt**.",
+			"color": "6"
+		},
+		{
+			"id": "b1b2b3b4b5b60002",
+			"type": "file",
+			"x": -480,
+			"y": -60,
+			"width": 400,
+			"height": 340,
+			"file": "Examples/My First Canvas.canvas"
+		},
+		{
+			"id": "b1b2b3b4b5b60003",
+			"type": "file",
+			"x": 0,
+			"y": 200,
+			"width": 400,
+			"height": 280,
+			"file": "Concepts/Prompt Dimensions.md"
+		},
+		{
+			"id": "b1b2b3b4b5b60004",
+			"type": "text",
+			"x": 480,
+			"y": -40,
+			"width": 340,
+			"height": 200,
+			"text": "# Why Nesting Matters\n\n**Overview** canvas → **Detail** canvas → **Sub-detail** canvas.\n\nAn agent navigating this sees structure at every level. It can zoom in for specifics or zoom out for the big picture.\n\nThe [[Concepts/The Mind Garden|mind garden]] grows in all directions.",
+			"color": "3"
+		},
+		{
+			"id": "b1b2b3b4b5b60005",
+			"type": "file",
+			"x": 480,
+			"y": 220,
+			"width": 340,
+			"height": 200,
+			"file": "Concepts/Dracomancy.md"
+		}
+	],
+	"edges": [
+		{
+			"id": "f1f2f3f4f5f60001",
+			"fromNode": "b1b2b3b4b5b60002",
+			"fromSide": "right",
+			"toNode": "b1b2b3b4b5b60001",
+			"toSide": "left",
+			"label": "contained in",
+			"color": "6"
+		},
+		{
+			"id": "f1f2f3f4f5f60002",
+			"fromNode": "b1b2b3b4b5b60001",
+			"fromSide": "bottom",
+			"toNode": "b1b2b3b4b5b60003",
+			"toSide": "top",
+			"label": "theory"
+		},
+		{
+			"id": "f1f2f3f4f5f60003",
+			"fromNode": "b1b2b3b4b5b60001",
+			"fromSide": "right",
+			"toNode": "b1b2b3b4b5b60004",
+			"toSide": "left"
+		},
+		{
+			"id": "f1f2f3f4f5f60004",
+			"fromNode": "b1b2b3b4b5b60004",
+			"fromSide": "bottom",
+			"toNode": "b1b2b3b4b5b60005",
+			"toSide": "top",
+			"label": "the soul"
+		}
+	]
+}
