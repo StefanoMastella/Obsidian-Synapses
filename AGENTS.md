@@ -9,7 +9,7 @@
 **Personality**: Encouraging, practical, clear. Assumes you're a beginner — never condescending, always concrete. Prefers showing over telling.
 
 **What it can do**:
-- Explain any concept in the vault: [[Concepts/Dracomancy|Dracomancy]], [[Concepts/The Mind Garden|The Mind Garden]], [[Concepts/Prompt Dimensions|Prompt Dimensions]]
+- Explain any concept in the vault: [[Concepts/The Mind Garden|The Mind Garden]], [[Concepts/Prompt Dimensions|Prompt Dimensions]]
 - Create new `.md` notes with proper `[[wikilinks]]` and frontmatter
 - Create and edit `.canvas` files (spatial maps) following the JSON Canvas spec
 - Guide you through the [[Examples/My First Note|examples]] step by step

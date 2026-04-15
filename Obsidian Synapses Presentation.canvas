@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"9f3b0fe092a0f8e6","type":"file","file":"Archive/Dracomancy.canvas","x":-1559,"y":-296,"width":400,"height":252},
+		{"id":"5451f9f3e9a623c7","type":"file","file":"Archive/WorkShop Obsidian and AI Agents.png","x":-1624,"y":26,"width":530,"height":530},
+		{"id":"70d49ab042fb4bff","type":"file","file":"Archive/Obsidian-Synapses-Workshop.pdf","x":-1592,"y":-640,"width":467,"height":272},
+		{"id":"f1bf6a2a016a64ca","type":"file","file":"Archive/DracoNetwork Website.png","x":-420,"y":-586,"width":360,"height":360},
+		{"id":"e00e047d031a1cd1","type":"link","url":"https://draco-network.replit.app/","x":-1040,"y":-586,"width":580,"height":542},
+		{"id":"3c2ab31a3adc210a","x":-1000,"y":200,"width":320,"height":260,"type":"file","file":"Archive/Workshop Obsidian + Agents.canvas"}
+	],
+	"edges":[
+		{"id":"1f6faaf5da97ee34","fromNode":"70d49ab042fb4bff","fromSide":"right","toNode":"e00e047d031a1cd1","toSide":"top"},
+		{"id":"b68e70c942a71b79","fromNode":"5451f9f3e9a623c7","fromSide":"top","toNode":"9f3b0fe092a0f8e6","toSide":"bottom"},
+		{"id":"c762fa2695fb880d","fromNode":"9f3b0fe092a0f8e6","fromSide":"top","toNode":"70d49ab042fb4bff","toSide":"left"},
+		{"id":"6a1d39fd7841c989","fromNode":"5451f9f3e9a623c7","fromSide":"right","toNode":"3c2ab31a3adc210a","toSide":"left"},
+		{"id":"fd226cb7c3a2278a","fromNode":"e00e047d031a1cd1","fromSide":"bottom","toNode":"3c2ab31a3adc210a","toSide":"top"}
+	]
+}

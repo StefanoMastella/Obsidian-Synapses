@@ -2,7 +2,6 @@
 title: Obsidian Synapses
 type: vault-entry-point
 ---
-
 # Obsidian Synapses
 
 The interfaces we inherited were designed to simulate an office inside a screen. Files in folders, documents on desktops, linear chat windows that forget everything the moment you close them. These structures were built for bureaucracy, not for thought.

@@ -8,20 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "484013b2399d406e",
+            "id": "eb652df984506228",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Dracomancy.canvas",
+                "file": "Obsidian Synapses Presentation.canvas",
                 "viewState": {
-                  "x": 244.5,
-                  "y": 175,
-                  "zoom": -0.5967161706875043
+                  "x": -842,
+                  "y": -42,
+                  "zoom": -0.8184733776928025
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Dracomancy"
+              "title": "Obsidian Synapses Presentation"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 263.5
   },
   "right": {
     "id": "64a6cd2532e31c30",
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dracomancy.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dracomancy"
+              "title": "Backlinks"
             }
           },
           {
@@ -116,12 +115,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dracomancy.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dracomancy"
+              "title": "Outgoing links"
             }
           },
           {
@@ -159,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dracomancy.canvas",
+                "file": "Obsidian Synapses Workshop.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dracomancy"
+              "title": "Outline of Obsidian Synapses Workshop"
             }
           }
         ]
@@ -186,37 +184,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "484013b2399d406e",
+  "active": "1c06e2e75fb3d5dc",
   "lastOpenFiles": [
-    "Concepts/The Mind Garden.md",
-    "Concepts/Dracomancy.md",
+    "Obsidian Synapses Presentation.canvas",
+    "Obsidian Synapses.md",
+    "Archive/Workshop Obsidian + Agents.canvas",
+    "AGENTS.md",
     "Examples/My First Canvas.canvas",
-    "Welcome.md",
     "Examples/Nested Canvas.canvas",
     "Examples/My First Note.md",
+    "Concepts/Dracomancy.md",
+    "Archive/workshop-obsidian-agentes-hero.png",
+    "Archive/WorkShop Obsidian and AI Agents.png",
+    "Archive/Workshop Obsidian + Agents - Master Plan.md",
+    "Archive/Workshop Obsidian + Agentes.md",
+    "Archive/Vulcan.png",
+    "Archive/Tolkien.png",
+    "Archive/Space Ship.png",
+    "Archive/Oil.png",
+    "Archive/Obsidian-Synapses-Workshop.pdf",
+    "Archive/Obsidian.png",
+    "Archive/Draconis Fire.png",
+    "Archive/Dragão nas Nuvens.jpg",
+    "Archive/DracoNetwork Website.png",
+    "Archive/Dracomancy.canvas",
+    "Archive/Descrição Oficial Luma.md",
+    "Obsidian Synapses Workshop.canvas",
+    "Concepts/The Mind Garden.md",
+    "Welcome.md",
     "Examples",
     "Concepts/Prompt Dimensions.md",
     "Concepts",
-    "Obsidian Synapses.md",
-    "AGENTS.md",
-    "Dracomancy.canvas",
-    "Archive/Oil.png",
-    "Archive/Draconis Fire.png",
-    "Archive/Bronze Tools.png",
-    "Archive/Tolkien.png",
-    "Archive/Dragão nas Nuvens.jpg",
-    "Archive/Copper.png",
-    "Archive/Dinosaurs cicle.png",
-    "Archive/Workshop Obsidian + Agents.canvas",
-    "Archive/Vulcan.png",
-    "Archive/Space Ship.png",
-    "Archive/Obsidian.png",
-    "Obsidian Synapses Workshop.canvas",
     "Clippings/Karparthy on Obsidian and Agents.md",
     "Clippings",
-    "Archive/Workshop Obsidian + Agentes.md",
-    "Archive/Descrição Oficial Luma.md",
-    "Archive/Workshop Obsidian + Agents - Master Plan.md",
     "Archive"
   ]
 }
