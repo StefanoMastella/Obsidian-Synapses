@@ -11,17 +11,14 @@
             "id": "eb652df984506228",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Synapses Presentation.canvas",
-                "viewState": {
-                  "x": -842,
-                  "y": -42,
-                  "zoom": -0.8184733776928025
-                }
+                "file": "Obsidian Synapses.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Obsidian Synapses Presentation"
+              "icon": "lucide-file",
+              "title": "Obsidian Synapses"
             }
           }
         ]
@@ -97,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive/Obsidian-Synapses-Workshop.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Obsidian-Synapses-Workshop"
             }
           },
           {
@@ -115,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive/Obsidian-Synapses-Workshop.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Obsidian-Synapses-Workshop"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Synapses Workshop.canvas",
+                "file": "Archive/Obsidian-Synapses-Workshop.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian Synapses Workshop"
+              "title": "Outline of Obsidian-Synapses-Workshop"
             }
           }
         ]
@@ -184,10 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c06e2e75fb3d5dc",
+  "active": "eb652df984506228",
   "lastOpenFiles": [
-    "Obsidian Synapses Presentation.canvas",
+    "Concepts/Prompt Dimensions.md",
     "Obsidian Synapses.md",
+    "Obsidian Synapses Presentation.canvas",
+    "Archive/Obsidian Logo.png",
+    "Archive/Bonfires Logo.png",
+    "Archive/IMT Telegram QR Code.png",
+    "Archive/IMT Logo.png",
+    "Archive/Cursor Logo.png",
+    "Archive/Github Logo.png",
+    "Obsidian Synapses Workshop.canvas",
     "Archive/Workshop Obsidian + Agents.canvas",
     "AGENTS.md",
     "Examples/My First Canvas.canvas",
@@ -200,20 +207,12 @@
     "Archive/Workshop Obsidian + Agentes.md",
     "Archive/Vulcan.png",
     "Archive/Tolkien.png",
-    "Archive/Space Ship.png",
-    "Archive/Oil.png",
     "Archive/Obsidian-Synapses-Workshop.pdf",
-    "Archive/Obsidian.png",
-    "Archive/Draconis Fire.png",
-    "Archive/Dragão nas Nuvens.jpg",
-    "Archive/DracoNetwork Website.png",
     "Archive/Dracomancy.canvas",
     "Archive/Descrição Oficial Luma.md",
-    "Obsidian Synapses Workshop.canvas",
     "Concepts/The Mind Garden.md",
     "Welcome.md",
     "Examples",
-    "Concepts/Prompt Dimensions.md",
     "Concepts",
     "Clippings/Karparthy on Obsidian and Agents.md",
     "Clippings",
