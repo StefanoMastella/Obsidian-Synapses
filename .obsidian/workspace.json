@@ -11,14 +11,31 @@
             "id": "eb652df984506228",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Obsidian Synapses Presentation.canvas",
+                "viewState": {
+                  "x": -506.84689662758996,
+                  "y": -382.55401679186514,
+                  "zoom": 0.12231908144850452
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Obsidian Synapses Presentation"
+            }
+          },
+          {
+            "id": "076f55e7317d703f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Synapses.md",
+                "file": "Archive/IMT - Collective Consciousness Prompt (Workshop).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Synapses"
+              "title": "IMT - Collective Consciousness Prompt (Workshop)"
             }
           }
         ]
@@ -185,9 +202,10 @@
   },
   "active": "eb652df984506228",
   "lastOpenFiles": [
-    "Concepts/Prompt Dimensions.md",
-    "Obsidian Synapses.md",
+    "Archive/IMT - Collective Consciousness Prompt (Workshop).md",
     "Obsidian Synapses Presentation.canvas",
+    "Obsidian Synapses.md",
+    "Concepts/Prompt Dimensions.md",
     "Archive/Obsidian Logo.png",
     "Archive/Bonfires Logo.png",
     "Archive/IMT Telegram QR Code.png",
